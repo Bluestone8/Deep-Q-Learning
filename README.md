@@ -1,4 +1,4 @@
-# Phi-Trading: Deep Reinforcement Learning for Cryptocurrency Trading
+# Deep Reinforcement Learning for Cryptocurrency Trading
 
 A comprehensive collection of deep reinforcement learning models for algorithmic trading on cryptocurrency markets, specifically focused on ETH/KRW trading using Korean exchange APIs.
 
